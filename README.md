@@ -1,10 +1,4 @@
 <div align="center">
-  <br />
-
-      <img src="https://github.com/nahomgebre57/NextCarshow.git/public/assets/151519281/2453c186-0ae9-448f-b3c4-077bf910680e" alt="Project Banner">
-    
-  <br />
-
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
